@@ -1,0 +1,7 @@
+Av precision
+
+LSTM with Nearmiss - 0.5450870096637128,  loss: 1.0571 - accuracy: 0.5080
+
+LSTM without Nearmiss without Allzero - 
+
+LSTM without sampling - 
